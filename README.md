@@ -7,7 +7,7 @@ Datos de entrada
 * hora (con tiempo estándar) (vector): calcular para cada hora del día
 * zona horaria (verano s/n)
 
-datos de salida
+Datos de salida
 
 * declinación
 * duración del día
